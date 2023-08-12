@@ -22,8 +22,8 @@ Poniżej znajduje się tabela fabryk, magazynów oraz koszty transportu między 
 | F2 | 18 | 12 | 20 |   
 | F3 | 25 | 24 | 10 |   
 
-*Dostępność jednostkowa produktów w fabrykach: F1 (60), F2 (40), F3 (90)
-Zapotrzebowanie w magazynach: M1 (50), M2 (60), M3 (80)*
+*Dostępność jednostkowa produktów w fabrykach: F1 (60), F2 (40), F3 (90)* <br>
+*Zapotrzebowanie w magazynach: M1 (50), M2 (60), M3 (80)*
 
 *Celem jest opracowanie planu transportu, który spełnia powyższe ograniczenia dostępności i popytu oraz minimalizuje łączny koszt transportu.*
 
