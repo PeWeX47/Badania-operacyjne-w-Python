@@ -11,12 +11,12 @@ Ten notebook przedstawia zastosowanie algorytmu transportowego do opracowania pl
 ## Wymagania
 Przed rozpoczęciem pracy z tymi notebookami i kodem, upewnij się, że spełniasz następujące wymagania:
 
-- Python: Wszystkie przykłady zostały napisane w języku Python. Upewnij się, że masz zainstalowanego interpretera Pythona w wersji 3.x.
+- **Python**: Wszystkie przykłady zostały napisane w języku Python. Upewnij się, że masz zainstalowanego interpretera Pythona w wersji 3.x.
 
-- Biblioteki: Wiele zastosowanych funkcji i algorytmów korzysta z zewnętrznych bibliotek. Upewnij się, że zainstalowałeś je za pomocą narzędzia pip. Możesz to zrobić poprzez uruchomienie poniższych komend:
+- **Biblioteki**: Wiele zastosowanych funkcji i algorytmów korzysta z zewnętrznych bibliotek. Upewnij się, że zainstalowałeś je za pomocą narzędzia pip. Możesz to zrobić poprzez uruchomienie poniższych komend:
 `
 pip install numpy scipy pulp
 `
-- Jupyter Notebook
+- **Jupyter Notebook**: Aby uruchamiać i modyfikować notatniki Jupyter, zalecane jest zainstalowanie środowiska Jupyter Notebook. Możesz je zainstalować używając komendy:
 `pip install jupyter
 `
