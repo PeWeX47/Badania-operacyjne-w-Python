@@ -3,6 +3,7 @@
 Repozytorium zawiera przykłady zastosowania algorytmów optymalizacyjnych w języku Python, z wykorzystaniem bibliotek Numpy, SciPy i PuLP.
 
 ## Algorytm węgierski
+<<<<<<< HEAD
 Ten notebook prezentuje zastosowanie algorytmu węgierskiego do rozwiązania problemu przypisania. <br>
 *MPK zamierza przekształcić cztery warsztaty naprawcze taboru w specjalizowane punkty obsługi czterech typów samochodów osobowych: forda, volkswagena, toyoty i fiata. Dana jest macierz, której elementy oznaczają przeciętny czas remontu (w dniach) samochodu j-tego typu w i-tym warsztacie. <br><br>
 ![image.png](attachment:image.png)
@@ -28,6 +29,12 @@ Poniżej znajduje się lista fabryk, magazynów oraz koszty transportu między n
 Zapotrzebowanie w magazynach: M1 (50), M2 (60), M3 (80)*
 
 *Celem jest opracowanie planu transportu, który spełnia powyższe ograniczenia dostępności i popytu oraz minimalizuje łączny koszt transportu.*
+=======
+Ten notebook prezentuje zastosowanie algorytmu węgierskiego do rozwiązania problemu przypisania.
+
+## Algorytm transportowy
+Ten notebook przedstawia zastosowanie algorytmu transportowego do opracowania planu transportu produktów z fabryk do magazynów z minimalizacją kosztów.
+>>>>>>> 768f25e964772a89cb3986c6de42e1db1bc267d7
 
 ## Wymagania
 Przed rozpoczęciem pracy z tymi notebookami i kodem, upewnij się, że spełniasz następujące wymagania:
@@ -40,4 +47,8 @@ pip install numpy scipy pulp
 `
 - **Jupyter Notebook**: Aby uruchamiać i modyfikować notatniki Jupyter, zalecane jest zainstalowanie środowiska Jupyter Notebook. Możesz je zainstalować używając komendy:
 `pip install jupyter
+<<<<<<< HEAD
 `
+=======
+`
+>>>>>>> 768f25e964772a89cb3986c6de42e1db1bc267d7
