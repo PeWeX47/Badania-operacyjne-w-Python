@@ -1,5 +1,6 @@
 # Badania-operacyjne-w-Python
 <br>
+
 ## Algorytmy Optymalizacyjne w Pythonie
 Repozytorium zawiera przykłady zastosowania algorytmów optymalizacyjnych w języku Python, z wykorzystaniem bibliotek Numpy, SciPy i PuLP.
 
