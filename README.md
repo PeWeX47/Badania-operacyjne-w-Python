@@ -3,10 +3,9 @@
 Repozytorium zawiera przykłady zastosowania algorytmów optymalizacyjnych w języku Python, z wykorzystaniem bibliotek Numpy, SciPy i PuLP.
 
 ## Algorytm węgierski
-<<<<<<< HEAD
 Ten notebook prezentuje zastosowanie algorytmu węgierskiego do rozwiązania problemu przypisania. <br>
 *MPK zamierza przekształcić cztery warsztaty naprawcze taboru w specjalizowane punkty obsługi czterech typów samochodów osobowych: forda, volkswagena, toyoty i fiata. Dana jest macierz, której elementy oznaczają przeciętny czas remontu (w dniach) samochodu j-tego typu w i-tym warsztacie. <br><br>
-![image.png](attachment:image.png)
+![image](https://github.com/PeWeX47/Badania-operacyjne-w-Python/assets/93322616/8ea7ca15-10c6-4b12-99d4-36391d731971)
 <br><br>
 Nalezy przydzielić remonty wymienionych typów samochodów poszczególnym punktom obsługi optymalnie z punktu widzenia minimalizacji łącznego czasu wykonywania remontów.*
 
