@@ -12,7 +12,7 @@ Nalezy przydzielić remonty wymienionych typów samochodów poszczególnym punkt
 ## Algorytm transportowy
 Ten notebook przedstawia zastosowanie algorytmu transportowego do opracowania planu transportu produktów z fabryk do magazynów z minimalizacją kosztów. <br>
 *Firma produkcyjna ma trzy fabryki (F1, F2, F3), które produkują różne produkty. Produkty te muszą być dostarczone do trzech magazynów (M1, M2, M3), z których zostaną przetransportowane do klientów. <br>
-Poniżej znajduje się lista fabryk, magazynów oraz koszty transportu między nimi:*
+Poniżej znajduje się tabela fabryk, magazynów oraz koszty transportu między nimi:*
 
 *Koszty transportu:*
 
