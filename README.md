@@ -22,18 +22,10 @@ Poniżej znajduje się lista fabryk, magazynów oraz koszty transportu między n
 | F2 | 18 | 12 | 20 |   
 | F3 | 25 | 24 | 10 |   
 
-*Dodatkowe informacje:*
-
 *Dostępność jednostkowa produktów w fabrykach: F1 (60), F2 (40), F3 (90)
 Zapotrzebowanie w magazynach: M1 (50), M2 (60), M3 (80)*
 
 *Celem jest opracowanie planu transportu, który spełnia powyższe ograniczenia dostępności i popytu oraz minimalizuje łączny koszt transportu.*
-=======
-Ten notebook prezentuje zastosowanie algorytmu węgierskiego do rozwiązania problemu przypisania.
-
-## Algorytm transportowy
-Ten notebook przedstawia zastosowanie algorytmu transportowego do opracowania planu transportu produktów z fabryk do magazynów z minimalizacją kosztów.
->>>>>>> 768f25e964772a89cb3986c6de42e1db1bc267d7
 
 ## Wymagania
 Przed rozpoczęciem pracy z tymi notebookami i kodem, upewnij się, że spełniasz następujące wymagania:
@@ -46,8 +38,5 @@ pip install numpy scipy pulp
 `
 - **Jupyter Notebook**: Aby uruchamiać i modyfikować notatniki Jupyter, zalecane jest zainstalowanie środowiska Jupyter Notebook. Możesz je zainstalować używając komendy:
 `pip install jupyter
-<<<<<<< HEAD
 `
-=======
-`
->>>>>>> 768f25e964772a89cb3986c6de42e1db1bc267d7
+
