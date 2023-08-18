@@ -36,7 +36,7 @@ Przed rozpoczęciem pracy z tymi notebookami i kodem, upewnij się, że spełnia
 `
 pip install numpy scipy pulp
 `
-<<<<<<< HEAD
+
 - **Jupyter Notebook**: Aby uruchamiać i modyfikować notatniki Jupyter, zalecane jest zainstalowanie środowiska Jupyter Notebook. Możesz je zainstalować używając komend:
 
     - `pip install ipykernel
